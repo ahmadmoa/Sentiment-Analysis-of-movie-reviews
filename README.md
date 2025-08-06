@@ -75,6 +75,7 @@ python main.py
 ```bash
 python test_script.py
 ```
+The dataset used in this project is from the Cornell University Movie Review Data. You can access the dataset here: [Cornell Movie Review Data](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 ## Model Evaluation
 
